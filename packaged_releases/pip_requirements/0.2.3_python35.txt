@@ -58,7 +58,7 @@ msrest==0.4.6
 msrestazure==0.4.7
 oauthlib==2.0.1
 packaging==16.8
-paramiko==2.1.2
+paramiko==2.10.1
 pyasn1==0.2.3
 pycparser==2.17
 Pygments==2.2.0
