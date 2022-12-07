@@ -44,7 +44,7 @@ azure-mgmt-trafficmanager==0.30.0rc6
 azure-mgmt-web==0.31.0
 azure-nspkg==1.0.0
 azure-storage==0.33.0
-certifi==2017.1.23
+certifi==2022.12.7
 cffi==1.9.1
 colorama==0.3.7
 cryptography==1.7.2
